@@ -37,4 +37,5 @@ Team Lead
     5. Edit the other parts of the page that make Ubermelon seem unpleasant
 
 # Further Study
-- Curious about that <hr>? Read about the Thematic Break (Horizontal Rule) element
+    1.  Curious about that <hr>? Read about the Thematic Break (Horizontal Rule) element:
+        https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr
